@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"se.kth.iv1350.retailStore.controller"},{"l":"se.kth.iv1350.retailStore.dbhandler"},{"l":"se.kth.iv1350.retailStore.main"},{"l":"se.kth.iv1350.retailStore.model"},{"l":"se.kth.iv1350.retailStore.view"}];updateSearchResults();
