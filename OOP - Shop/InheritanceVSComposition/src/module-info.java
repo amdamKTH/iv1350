@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author jonat
- *
- */
-module InheritanceVSComposition {
-}
